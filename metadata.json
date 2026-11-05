@@ -1,0 +1,7 @@
+{
+  "name": "For Vaishnavi, With Love",
+  "description": "An interactive, romantic birthday experience made with love by Daksh for Vaishnavi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
